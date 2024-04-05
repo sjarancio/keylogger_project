@@ -12,3 +12,4 @@ This project showcases a simple keylogger implemented in Python. A keylogger is 
 ## Installation and use
 1. Clone the repository: git clone https://github.com/sjarancio/keylogger_project.git
 2. Navigate to the project directory: 
+3. cd keylogger
