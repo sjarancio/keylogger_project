@@ -9,5 +9,6 @@ This project showcases a simple keylogger implemented in Python. A keylogger is 
 - Saves captured keystrokes to a txt file for later analysis.
 - Lightweight and easy to use.
 
-
-
+## Installation and use
+1. Clone the repository: git clone https://github.com/sjarancio/keylogger_project.git
+2. Navigate to the project directory: 
