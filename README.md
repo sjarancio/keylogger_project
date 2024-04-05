@@ -13,10 +13,10 @@ This project showcases a simple keylogger implemented in Python. A keylogger is 
 1. Clone the repository: git clone https://github.com/sjarancio/keylogger_project.git
 2. Navigate to the project directory: cd keylogger
 3. Run the following commands to install the required packages:
-  - pip3 install pynput
-  - pip3 install logging
+    - pip3 install pynput
+    - pip3 install logging
 4. Run the keylogger:
-  - python main.py
+    - python main.py
 
 ## Results
 - The keylogger will start running silently in the background, it is currently set up to capture all keystrokes on your own machine while the script runs.
