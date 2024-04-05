@@ -1,2 +1,13 @@
-# keylogger_project
-A kkeylogger coded in python. Meant for informational and research use only.
+## Disclaimer
+This project is meant for informational and research use only.
+
+# Keylogger Project details
+This project showcases a simple keylogger implemented in Python. A keylogger is a tool that captures and records keystrokes made by a user on a computer keyboard. It can be utilized for various purposes including monitoring user activity, debugging software, or as a part of cybersecurity research.
+
+## Features
+- Records keystrokes in the background without the user's knowledge.
+- Saves captured keystrokes to a txt file for later analysis.
+- Lightweight and easy to use.
+
+
+
